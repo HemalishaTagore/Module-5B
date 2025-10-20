@@ -32,6 +32,8 @@ print(df)
 ```
 ## Output
 <img width="461" height="441" alt="Screenshot 2025-10-20 165428" src="https://github.com/user-attachments/assets/8d885db7-27f7-45ff-b455-24680f2371a1" />
+
+
 ## Result
 Thus, to create and display a **DataFrame** using the **Pandas** library in Python from a given dictionary, and apply specific index labels to the rows is executed successfully.
 
