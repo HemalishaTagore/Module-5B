@@ -37,5 +37,7 @@ print(combined_df)
 ```
 ## Output
 <img width="504" height="403" alt="Screenshot 2025-10-20 165936" src="https://github.com/user-attachments/assets/9e1c3c95-9fa9-433c-94a7-1bc8f0a83367" />
+
+
 ## Result
 Thus, to write a Python program using Pandas to **join two DataFrames along rows** (row-wise concatenation) and assign all data to a new DataFrame is executed successfully.
